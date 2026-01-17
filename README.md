@@ -1,73 +1,52 @@
-# Welcome to my  project
+# 🛋️ Salmons Home Space
 
-## Project info
+![Home Banner](Screenshot%202026-01-17%20072356.png)
 
-**URL**: https://.dev/projects/REPLACE_WITH_PROJECT_ID
+### 📖 Overview
+**Salmons Home Space** is a modern, high-performance e-commerce web application dedicated to home decor and interior aesthetics. Built with **React**, it delivers a seamless shopping experience with a focus on visual storytelling, responsive design, and smooth user interactions.
 
-## How can I edit this code?
+**Status:** ✅ Live / Production
 
-There are several ways of editing my application.
+---
 
-**Use **
+### ✨ Key Features
 
-Simply visit the [ Project](https://.dev/projects/REPLACE_WITH_PROJECT_ID) and start .
+* **Visual-First Design:** Immersive layout designed to showcase furniture and decor with high-quality imagery.
+* **Dynamic Product Catalog:** Users can browse collections with instant filtering by category and price.
+* **Smart Shopping Cart:** Persistent state management allows users to add items and review their cart effortlessly.
+* **Responsive Interface:** Fully optimized for mobile, tablet, and desktop viewing.
+* **Seamless Navigation:** Utilizes React Router for fast, client-side transitions without page reloads.
 
-Changes made via  will be committed automatically to this repo.
+---
 
-**Use my preferred IDE**
+### 🛠️ Tech Stack
 
-If you want to work locally using my own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in .
+* **Frontend:** React.js (Functional Components & Hooks)
+* **Styling:** CSS3 / Styled Components
+* **State Management:** Context API
+* **Navigation:** React Router v6
+* **Icons:** React Icons
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+### 📸 Application Gallery
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <my_GIT_URL>
+| Product Collection | Product Details |
+|:---:|:---:|
+| ![Collection View](Screenshot%202026-01-17%20072429.png) | ![Detail View](Screenshot%202026-01-17%20072449.png) |
+| *Browsing the catalog* | *Single product view* |
 
-# Step 2: Navigate to the project directory.
-cd <my_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+### 🚀 Getting Started
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Follow these instructions to run the project locally on your machine.
 
-**Edit a file directly in GitHub**
+**1. Clone the repository**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make my changes and commit the changes.
+npm install
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of my repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push my changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [](https://.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my  project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs..dev/features/custom-domain#custom-domain)
+npm start
+```bash
+git clone [https://github.com/3x0collab/salmons-home-space.git](https://github.com/3x0collab/salmons-home-space.git)
+cd salmons-home-space
